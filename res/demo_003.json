@@ -6,5 +6,267 @@
   "duration": 240,
   "lessonName": "Mock Exams",
   "courseName": "PgMP Certification",
-  "questions": []
+  "questions": [
+  {
+    "id": "q-1767167779788",
+    "text": "1. The Aligning Process Group: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "How portfolio components will be evaluated in the portfolio"
+      },
+      {
+        "id": "B",
+        "text": "How portfolio components will be categorized in the portfolio"
+      },
+      {
+        "id": "C",
+        "text": "How portfolio components will be selected for inclusion in the portfolio"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767167859173",
+    "text": "2. You are currently engaged in working with focus groups and brainstorming activities to develop the portfolio management plan. What best describes what you are doing? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facilitation techniques"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio organizational structure analysis"
+      },
+      {
+        "id": "C",
+        "text": "Survey techniques"
+      },
+      {
+        "id": "D",
+        "text": "Collaboration techniques"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 5.1.2.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767167897077",
+    "text": "3. The Authorizing and Controlling Process Group: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consists of the processes for determining how to authorize the portfolio"
+      },
+      {
+        "id": "B",
+        "text": "Consists of processes for selecting components to the portfolio"
+      },
+      {
+        "id": "C",
+        "text": "Consists of the processes for determining how to authorize the portfolio and providing ongoing oversight of the portfolio"
+      },
+      {
+        "id": "D",
+        "text": "Consists of the processes for providing ongoing portfolio oversight"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767167914557",
+    "text": "4. Ben comes to you for advice. He understands that there is a strategic management process but is unsure of what stage in the process he is in. He is currently doing a strategic alignment analysis. What phase is he in? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Define Portfolio Roadmap"
+      },
+      {
+        "id": "B",
+        "text": "Develop Portfolio Charter"
+      },
+      {
+        "id": "C",
+        "text": "Manage Strategic Change"
+      },
+      {
+        "id": "D",
+        "text": "Develop Portfolio Strategic Plan"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 4.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767167941145",
+    "text": "5. The development of the Portfolio Strategic Plan process includes the following outputs: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio strategic plan"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio charter"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio Roadmap"
+      },
+      {
+        "id": "D",
+        "text": "None of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 4.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767167960907",
+    "text": "6. How does a portfolio manager address the function of marketing? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analyzing resources and budget"
+      },
+      {
+        "id": "B",
+        "text": "Not a factor as portfolio managers look at multiple areas"
+      },
+      {
+        "id": "C",
+        "text": "Analyzing Market opportunity"
+      },
+      {
+        "id": "D",
+        "text": "Analyzing Market opportunity and competitive advantage"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 1.7 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767167964495",
+    "text": "7. The following are all examples of categories that the portfolio component along with its key descriptors can be assigned to except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Efficiency improvement"
+      },
+      {
+        "id": "B",
+        "text": "Strategic improvement"
+      },
+      {
+        "id": "C",
+        "text": "Process improvement"
+      },
+      {
+        "id": "D",
+        "text": "Continuous improvement"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 5.2.2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767167973999",
+    "text": "8. Rob has just started working on the Develop Portfolio Risk Management Plan process. He is trying to find information on roles and responsibilities for conducting risk management. Where can Rob find this information? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio management plan"
+      },
+      {
+        "id": "B",
+        "text": "Enterprise environmental factors"
+      },
+      {
+        "id": "C",
+        "text": "Organizational process assets"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio process assets"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Roles and responsibilities are defined in the portfolio management plan. Refer to Section 8.1.1.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "q-1767167986789",
+    "text": "9. You have been asked to complete a portfolio roadmap. What do you need to start the process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio strategic plan, portfolio charter, portfolio management plan"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio process assets, portfolio charter, readiness assessment"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio charter, portfolio, portfolio process assets"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio strategic plan, portfolio charter, portfolio"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 4.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  }
+]
 }
