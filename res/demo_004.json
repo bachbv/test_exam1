@@ -1050,6 +1050,410 @@
     "tags": [
       "Communication Management"
     ]
+  },
+  {
+    "id": "q-1767176238353-ilfk1",
+    "text": "37. Bruce is currently working on the Optimize Portfolio process and asks for your guidance. Bruce has decided to remove a portfolio component and knows that his reasoning needs to be documented, but isn't sure where he should document it. How would you advise him (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would advise Bruce to document his reasoning on the portfolio roadmap"
+      },
+      {
+        "id": "B",
+        "text": "I would advise Bruce to document his reasoning in the portfolio charter"
+      },
+      {
+        "id": "C",
+        "text": "I would advise Bruce to document his reasoning in the portfolio management plan"
+      },
+      {
+        "id": "D",
+        "text": "I would advise Bruce to document his reasoning in the portfolio component information"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 5.3.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767176243936-3a066",
+    "text": "38. Successful communication planning includes an alignment of which of the following: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "People, planning, budgets"
+      },
+      {
+        "id": "B",
+        "text": "People, ideas, information"
+      },
+      {
+        "id": "C",
+        "text": "People, technology, information"
+      },
+      {
+        "id": "D",
+        "text": "People, ideas, technology"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "Refer to Section 7.1.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  },
+  {
+    "id": "q-1767176256932-78qv2",
+    "text": "39. Which factors indicate that there is a need to revise portfolio components? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Change in priorities, regulatory changes, portfolio process assets"
+      },
+      {
+        "id": "B",
+        "text": "Enterprise environmental factors, organizational process assets, portfolio strategic plan"
+      },
+      {
+        "id": "C",
+        "text": "Obsolete goals, opportunities to be pursued, and response to regular changes"
+      },
+      {
+        "id": "D",
+        "text": "None of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Results of the analysis become part of the portfolio process assets but they are not a factor in revising portfolio components. Refer to Section 4.1.2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767176270202-odt91",
+    "text": "40. Which is NOT an assessment activity of the portfolio management process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evaluate existing portfolio components to determine if supportive of organization strategy and objectives"
+      },
+      {
+        "id": "B",
+        "text": "Identify gaps in knowledge, structure, resources, processes"
+      },
+      {
+        "id": "C",
+        "text": "assess current portfolio component resource availability and allocations against integrated schedule"
+      },
+      {
+        "id": "D",
+        "text": "Identify gaps in financial projections"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": "General Portfolio Management concepts"
+  },
+  {
+    "id": "q-1767176284605-o225s",
+    "text": "41. Which is NOT included in assessment results of the portfolio management process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Understanding the organization's vision"
+      },
+      {
+        "id": "B",
+        "text": "Misinformation that needs to be addressed"
+      },
+      {
+        "id": "C",
+        "text": "Project, program, portfolio and operations management practices in place"
+      },
+      {
+        "id": "D",
+        "text": "Understanding the organization's tax return"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767176296053-puakd",
+    "text": "42. Which of the following is NOT considered a primary activity for portfolio management? (Select the best answer) (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Identifying and aligning organizational priorities"
+      },
+      {
+        "id": "B",
+        "text": "Managing the details of programs and projects"
+      },
+      {
+        "id": "C",
+        "text": "Managing risk, communication and resources"
+      },
+      {
+        "id": "D",
+        "text": "Determining a governance and performance management framework"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 1.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767176305810-yj8ln",
+    "text": "43. Which of the following ways does a PMO NOT support Portfolio Management: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eliminating risk completely"
+      },
+      {
+        "id": "B",
+        "text": "Assisting with risk identification"
+      },
+      {
+        "id": "C",
+        "text": "Communicating risks and issues"
+      },
+      {
+        "id": "D",
+        "text": "Assisting with risk strategy development"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 1.9 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "q-1767176312606-e5gyq",
+    "text": "44. Which of the following is an interaction with a portfolio management process group? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Organization process plans"
+      },
+      {
+        "id": "B",
+        "text": "Organizational process assets"
+      },
+      {
+        "id": "C",
+        "text": "Organization process analysis"
+      },
+      {
+        "id": "D",
+        "text": "None of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 3.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767176317865-8pkih",
+    "text": "45. Which one of the following is NOT an input to developing a portfolio roadmap? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio strategic plan"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio charter"
+      },
+      {
+        "id": "D",
+        "text": "Organization strategy"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "Refer to Section 4.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767176325522-0k93h",
+    "text": "46. Which of the four Portfolio Strategic Management processes involves an output of high-level portfolio planning that graphically depicts all portfolio elements need to achieve organizational strategy and objectives? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Define Portfolio Process Flow Chart"
+      },
+      {
+        "id": "B",
+        "text": "Define Portfolio Processes"
+      },
+      {
+        "id": "C",
+        "text": "Define Portfolio Roadmap"
+      },
+      {
+        "id": "D",
+        "text": "Define Portfolio Tools & Techniques"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 4.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767176337001-go08b",
+    "text": "47. Which of the four Portfolio Strategic Management processes examines the \"as-is\" state and compares it with the \"to-be\" state? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Manage Strategic Planning"
+      },
+      {
+        "id": "B",
+        "text": "Manage Portfolio Change"
+      },
+      {
+        "id": "C",
+        "text": "Manage Strategic Change"
+      },
+      {
+        "id": "D",
+        "text": "Manage Portfolio Strategy"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 4.4 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767176348667-xfes6",
+    "text": "48. Which of the following is an example (or examples) of evaluation criteria that a portfolio manager should apply? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Market growth"
+      },
+      {
+        "id": "B",
+        "text": "Market share"
+      },
+      {
+        "id": "C",
+        "text": "New markets"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 5.2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767176362371-8z7l6",
+    "text": "49. Which of the following best describes portfolio optimization? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maximizing portfolio return within the organizations predefined risk profile and tolerances"
+      },
+      {
+        "id": "B",
+        "text": "Balancing the portfolio for value delivery"
+      },
+      {
+        "id": "C",
+        "text": "Planning and allocating resources according to organizational strategy and objectives"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 5.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767176370224-c3eaj",
+    "text": "50. Which of the following are key activities with the Authorize Portfolio process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Allocating resources to authorized portfolio components"
+      },
+      {
+        "id": "B",
+        "text": "Authorizing portfolio component proposal development or portfolio component execution"
+      },
+      {
+        "id": "C",
+        "text": "Communicating changes and decisions for the authorized portfolio components"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 5.4 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Governance"
+    ]
   }
 ]
 }
