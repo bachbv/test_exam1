@@ -6,5 +6,1050 @@
   "duration": 240,
   "lessonName": "Mock Exams",
   "courseName": "PgMP Certification",
-  "questions": []
+  "questions": [
+  {
+    "id": "q-1767174108997-459fv",
+    "text": "The Manage Portfolio Risksprocess has how many stages? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "One"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 8.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "q-1767174118403-yiu90",
+    "text": "The Aligning Process Group is most active when? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "After the portfolio organization has defined and developed its plans"
+      },
+      {
+        "id": "B",
+        "text": "After the portfolio organization has defined and developed its strategic goals"
+      },
+      {
+        "id": "C",
+        "text": "After the portfolio organization has defined its near term budget"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174125732-ede1s",
+    "text": "Hal approaches you for advice. He is about to start working on the Define Portfolio process and feels as though everything has already been defined and that this process can be skipped. How would you advise Hal? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would advise Hal that he can skip the process and proceed to do a portfolio component inventory"
+      },
+      {
+        "id": "B",
+        "text": "I would advise Hal that the he is correct and the process can be skipped."
+      },
+      {
+        "id": "C",
+        "text": "I would advise Hal that the process should not be skipped and is important because it provides a graphical overview of key portfolio elements"
+      },
+      {
+        "id": "D",
+        "text": "I would advise Hal that the process should not be skipped and is important because the portfolio needs to be organized for evaluation, selection, and prioritization."
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "This is a very important process involving organizing the portfolio. Refer to Section 5.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174130599-6qpji",
+    "text": "The best tool to develop a stakeholder communication management strategy is: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mapping of internal and external stakeholders to quadrants"
+      },
+      {
+        "id": "B",
+        "text": "Mapping of communication assets to quadrants"
+      },
+      {
+        "id": "C",
+        "text": "Mapping of influence and interest to quadrants"
+      },
+      {
+        "id": "D",
+        "text": "Mapping of organization chart to quadrants based on influence"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 7.1.2.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  },
+  {
+    "id": "q-1767174140544-0i1wg",
+    "text": "The communication management plan should include all of the following except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Communication protocols"
+      },
+      {
+        "id": "B",
+        "text": "Planned frequency"
+      },
+      {
+        "id": "C",
+        "text": "Communication constraints"
+      },
+      {
+        "id": "D",
+        "text": "Communication policies"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 7.1.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  },
+  {
+    "id": "q-1767174152251-aq8s9",
+    "text": "How does a manager measure portfolio component performance? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio component is undertaken to achieve a strategic goal and its contribution is measured within the context of that goal"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio component is undertaken to achieve primarily a financial goal"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio component is undertaken to achieve primarily a human resource goal"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio component is undertaken to achieve one or more strategic goals"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 1.5 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174161136-m35vo",
+    "text": "How does a portfolio manager address the function of quality management? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensuring compliance with set standards"
+      },
+      {
+        "id": "B",
+        "text": "Not a factor as portfolio managers look at multiple areas"
+      },
+      {
+        "id": "C",
+        "text": "Ensuring compliance with voluntary standards and OSHA requirements"
+      },
+      {
+        "id": "D",
+        "text": "Ensuring compliance with voluntary standards and mandatory requirements"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "Refer to Section 1.7 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174167344-i3w4r",
+    "text": "How does the portfolio management plan utilize information from the roadmap? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "To define the direction"
+      },
+      {
+        "id": "B",
+        "text": "To define the project plan"
+      },
+      {
+        "id": "C",
+        "text": "To define the assets"
+      },
+      {
+        "id": "D",
+        "text": "To define low level schedules and timelines"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "Refer to Section 5.1.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174178612-phcrg",
+    "text": "The following types of diagrams are all useful to show execution of the portfolio against the overall strategic plan and budget except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Funnel and bubble charts"
+      },
+      {
+        "id": "B",
+        "text": "Burn-down or burn-up charts"
+      },
+      {
+        "id": "C",
+        "text": "Histograms"
+      },
+      {
+        "id": "D",
+        "text": "Pictograms"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 6.2.3.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174184297-nxoqv",
+    "text": "How is \"Change\" defined for portfolio management? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Depending on organizations, it can be a random process"
+      },
+      {
+        "id": "B",
+        "text": "Occurs in the broader internal and external environment monitored by the manager"
+      },
+      {
+        "id": "C",
+        "text": "Strictly internal controls that are monitored by the manager"
+      },
+      {
+        "id": "D",
+        "text": "Occurs in the broader internal and external environment but not necessarily monitored"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 1.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174188921-n75s4",
+    "text": "How is organizational strategy implemented as it relates to the strategic plan? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Through portfolio components and ongoing operations"
+      },
+      {
+        "id": "B",
+        "text": "Through the prioritization analysis process"
+      },
+      {
+        "id": "C",
+        "text": "Through the capability and capacity analysis"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 4.1.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174198316-83u81",
+    "text": "Ron is working on his portfolio charter and is trying to assess the impact of enterprise environmental factors. Which of the follow scenarios could Ron be facing? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "The portfolio structure needs to be changed so that it aligns stakeholder relationships, scope, benefits, and portfolio goals"
+      },
+      {
+        "id": "B",
+        "text": "The portfolio charter needs to be changed to account for the results of the capability and capacity analysis"
+      },
+      {
+        "id": "C",
+        "text": "The portfolio charter needs to align with scenarios examined during scenario analysis"
+      },
+      {
+        "id": "D",
+        "text": "The portfolio structure in the charter needs to align with corporate accounting structure"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 4.2.1.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174213176-z508z",
+    "text": "How is the portfolio related to the process Define Portfolio Roadmap? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "It quantifies the estimated costs and benefits of portfolio components"
+      },
+      {
+        "id": "B",
+        "text": "It is used to perform a portfolio component inventory"
+      },
+      {
+        "id": "C",
+        "text": "It is used to define organization areas only on the portfolio roadmap"
+      },
+      {
+        "id": "D",
+        "text": "The portfolio and components are referenced to define the portfolio roadmap"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 4.3.1.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174223093-2gke8",
+    "text": "How is the portfolio management plan utilized during the Manage Portfolio Value process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "It provides for the continual identification and assessment of the value of the portfolio benefits and the impact on organizational objectives"
+      },
+      {
+        "id": "B",
+        "text": "It provides a high-level timeline for expected portfolio component delivery"
+      },
+      {
+        "id": "C",
+        "text": "It provides stakeholder expectations and requirements, governance model, strategic change framework, planning, procurement, and oversight processes including direction for performance, communication, and risk management"
+      },
+      {
+        "id": "D",
+        "text": "All of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 6.3.1.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174229478-q2hyw",
+    "text": "The least likely factors that affect portfolio structural risks is: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alignment of organizations ability to organize its portfolio mission with hierarchal and clustered structures"
+      },
+      {
+        "id": "B",
+        "text": "Quality of organizations portfolio management"
+      },
+      {
+        "id": "C",
+        "text": "Organizational hierarchy"
+      },
+      {
+        "id": "D",
+        "text": "Methods and approaches in which organization operates and performs its tasks"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "Refer to Section 8 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "q-1767174238526-l8j7l",
+    "text": "How many people may be in the governing body? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Minimum 2"
+      },
+      {
+        "id": "B",
+        "text": "The more the better"
+      },
+      {
+        "id": "C",
+        "text": "Minimum 5 or more"
+      },
+      {
+        "id": "D",
+        "text": "1 or more"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 1.9 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Governance"
+    ]
+  },
+  {
+    "id": "q-1767174244794-6xsxr",
+    "text": "How many portfolio management processes are there? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sixteen"
+      },
+      {
+        "id": "B",
+        "text": "Eighteen"
+      },
+      {
+        "id": "C",
+        "text": "Twelve"
+      },
+      {
+        "id": "D",
+        "text": "Fourteen"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174250730-x0dsj",
+    "text": "How many portfolio management process groups are there? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "One"
+      },
+      {
+        "id": "D",
+        "text": "Two"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174259346-0w4wy",
+    "text": "How many Portfolio Communication Management Processes are there? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Five"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 7 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  },
+  {
+    "id": "q-1767174281590-zbx00",
+    "text": "Why might portfolio process assets need to be updated as a result of the Optimize Portfolio process? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Procedures and guidelines have changed during the process"
+      },
+      {
+        "id": "B",
+        "text": "The approach and criteria to maintaining a balanced portfolio may have changed during the process"
+      },
+      {
+        "id": "C",
+        "text": "Organizational areas, portfolio components, and high level timeline have changed during the process"
+      },
+      {
+        "id": "D",
+        "text": "None of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The correct answer is A. Refer to Section 5.3.3.5 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174286207-2kwx0",
+    "text": "All of the following are key descriptors of portfolio components that a portfolio manager may make use of except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Type of portfolio component"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio management plan"
+      },
+      {
+        "id": "C",
+        "text": "Strategic goals supported"
+      },
+      {
+        "id": "D",
+        "text": "Resources required"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "Refer to Section 5.2.2.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174295870-renpg",
+    "text": "All of the following are valid for scoring and measuring organizational value except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio scoring techniques"
+      },
+      {
+        "id": "B",
+        "text": "Progress measurement techniques"
+      },
+      {
+        "id": "C",
+        "text": "Value measurement techniques"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio efficient frontier"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 6.3.2.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174304346-010k8",
+    "text": "The performance management process manages the sourcing of: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Finance, assets, information technology"
+      },
+      {
+        "id": "B",
+        "text": "Finance, vendors, human resources"
+      },
+      {
+        "id": "C",
+        "text": "Finance, assets, human resources"
+      },
+      {
+        "id": "D",
+        "text": "Finance, marketing, assets"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "Refer to Section 6 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174309298-7yrjd",
+    "text": "The portfolio manager must have expertise in ALL of the following application and analysis of quantitative and qualitative techniques except: (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Program And project management methods and techniques"
+      },
+      {
+        "id": "B",
+        "text": "Organizational management"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio risk management"
+      },
+      {
+        "id": "D",
+        "text": "Software evaluation"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 1.8 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174314590-5m216",
+    "text": "The portfolio charter is defined as: (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "The document that formally establishes the portfolio change management plan"
+      },
+      {
+        "id": "B",
+        "text": "The document that formally authorizes and structures a portfolio"
+      },
+      {
+        "id": "C",
+        "text": "The document that provides the scope and schedule of establishing the portfolio management process"
+      },
+      {
+        "id": "D",
+        "text": "The process that initiation the formation of a portfolio"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 3.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174319841-3m6vw",
+    "text": "The portfolio charter contains which of the following? (Easy)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Financial analysts"
+      },
+      {
+        "id": "B",
+        "text": "Identification of stakeholders"
+      },
+      {
+        "id": "C",
+        "text": "Project Plan"
+      },
+      {
+        "id": "D",
+        "text": "Identification of C-level executives"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 3.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174332722-v1p65",
+    "text": "The portfolio roadmap displays information at what type of level and what type of view? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "High-level and chronological"
+      },
+      {
+        "id": "B",
+        "text": "Highly detailed level and alphabetical"
+      },
+      {
+        "id": "C",
+        "text": "High-level and alphabetical"
+      },
+      {
+        "id": "D",
+        "text": "Highly detailed level and chronological"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 4.3.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174341900-z9lt2",
+    "text": "The portfolio management plan may refer to different methodologies or approaches that the organization applies to manage different types of portfolio components. This is done based on the specifications from what? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio charter"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio process assets"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio roadmap"
+      },
+      {
+        "id": "D",
+        "text": "Organizational process assets"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "The correct answer is C. Refer to Section 5.1.1.3 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174346999-4zd2s",
+    "text": "The portfolio management plan can include each of the following sections except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Performance management planning"
+      },
+      {
+        "id": "B",
+        "text": "Change control and management"
+      },
+      {
+        "id": "C",
+        "text": "Managing scope change"
+      },
+      {
+        "id": "D",
+        "text": "Balancing portfolio and managing dependencies"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "Refer to Section 5.1.2 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "General Portfolio Management concepts"
+    ]
+  },
+  {
+    "id": "q-1767174352118-ww39g",
+    "text": "Rod recently started working on the Develop Portfolio Communication Management Plan process. He is trying to locate information on portfolio value assessments and portfolio manager roles and responsibilities. Where can he find this information? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio process assets"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio reports"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio management plan"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "Information on portfolio value assessments and portfolio manager roles and responsibilities are part of portfolio process assets. Refer to Section 7.1.1.5 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  },
+  {
+    "id": "q-1767174356790-f61io",
+    "text": "The risk register includes all of the following information except: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Probability impact assessment"
+      },
+      {
+        "id": "B",
+        "text": "Risk matrix"
+      },
+      {
+        "id": "C",
+        "text": "Risk triggers"
+      },
+      {
+        "id": "D",
+        "text": "Updated risk categories"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "The correct answer is B. Refer to Section 8.2.1.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "q-1767174362004-3wu7l",
+    "text": "The strategic change process compares: (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "The \"as is\" state with the \"to be\" state"
+      },
+      {
+        "id": "B",
+        "text": "The current state with the ideal state"
+      },
+      {
+        "id": "C",
+        "text": "The present state with the past state"
+      },
+      {
+        "id": "D",
+        "text": "None of the answer choices"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Refer to Section 4.4 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174366908-u0s9x",
+    "text": "Lisa Fe has just started working on the Develop Portfolio Performance Management Plan process. She is trying to find information on stakeholder expectation and requirements as well as information about planning and procurement. Where should she look for this information? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio management plan"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio management information system"
+      },
+      {
+        "id": "C",
+        "text": "Portfolio roadmap"
+      },
+      {
+        "id": "D",
+        "text": "Portfolio process assets"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "The portfolio management plan contains information on stakeholder expectations, planning, and procurement. Refer to Section 6.1.1.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174384240-q7y0u",
+    "text": "Melanie has sought advice from Glenn, a senior member of her office, regarding managing strategic change. Glenn indicated to Melanie that a stakeholder analysis is very important. Why? (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is used to understand the portfolio structure, scope, constraints, dependencies, and resources"
+      },
+      {
+        "id": "B",
+        "text": "It compares the current portfolio mix and components with the new strategic direction and the \"to-be\" organizational vision"
+      },
+      {
+        "id": "C",
+        "text": "It is used to evaluate strategic objectives, prioritize objectives, and perform strategic assessments again current enterprise portfolios"
+      },
+      {
+        "id": "D",
+        "text": "It helps to ensure continuity and aligns key stakeholders' expectations with the changing strategy and resulting portfolio realignment"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 4.4.2.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Strategic Alignment"
+    ]
+  },
+  {
+    "id": "q-1767174396473-mol1g",
+    "text": "Bruce is currently working on the Optimize Portfolio process and asks for your guidance. Bruce has decided to remove a portfolio component and knows that his reasoning needs to be documented, but isn't sure where he should document it. How would you advise him (Difficult)",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would advise Bruce to document his reasoning on the portfolio roadmap"
+      },
+      {
+        "id": "B",
+        "text": "I would advise Bruce to document his reasoning in the portfolio charter"
+      },
+      {
+        "id": "C",
+        "text": "I would advise Bruce to document his reasoning in the portfolio management plan"
+      },
+      {
+        "id": "D",
+        "text": "I would advise Bruce to document his reasoning in the portfolio component information"
+      }
+    ],
+    "correctOptionIds": [
+      "D"
+    ],
+    "explanation": "The correct answer is D. Refer to Section 5.3.3.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Performance Management"
+    ]
+  },
+  {
+    "id": "q-1767174442715-u8ma0",
+    "text": "Which of the following is not an Input to the Develop Portfolio Communication Management Plan? (Moderate)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portfolio roadmap"
+      },
+      {
+        "id": "B",
+        "text": "Portfolio process assets"
+      },
+      {
+        "id": "C",
+        "text": "Scope"
+      },
+      {
+        "id": "D",
+        "text": "Management Plan"
+      }
+    ],
+    "correctOptionIds": [
+      "C"
+    ],
+    "explanation": "Refer to Section 7.1 of the Standard for Portfolio Management - 3rd Edition. Review the descriptions and definition.",
+    "tags": [
+      "Communication Management"
+    ]
+  }
+]
 }
